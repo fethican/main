@@ -1,0 +1,3 @@
+[submodule "images/suba"]
+	path = images/suba
+	url = git@github.com:fethican/suba.git
